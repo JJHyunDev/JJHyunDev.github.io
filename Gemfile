@@ -14,3 +14,4 @@ gem "jemoji"
 
 gemspec
 
+gem "dev-portfolio-blog"
